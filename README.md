@@ -24,7 +24,7 @@ serius mendalami dunia web development, terutama di **frontend** dengan React da
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-0F172A?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff)
-![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=fff)
+![GSAP](https://img.shields.io/badge/GSAP-0e100f?style=for-the-badge&logo=greensock&logoColor=fff)
 
 
 ### 🖥️ Backend & Database
